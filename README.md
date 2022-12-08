@@ -30,16 +30,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- HTML
+- CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### My goals with this project
+
+Heading into this project I gave myself a few limitations. I felt that I learned Flexbox fairly early after HTML and CSS, so I decided to attempt the project without using Flexbox or Grid, with the goal of reinforcing the basic syntax and getting more comfortable using other CSS properties for positioning elements.
 
 ### What I learned
 
